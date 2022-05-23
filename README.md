@@ -17,13 +17,13 @@
 
 Users should be able to:
 
-#### - 
+#### - See the auto text effect
 
-#### - 
+#### - Change the speed of the effect
 
-#### - 
 
 ### Features
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Project Demo
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Auto Text Effect GitHub Solution](https://github.com/MaryAngelique/auto-text-effect)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -39,13 +39,10 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
+- JavaScript (ES6)
 
 ## Author
 
