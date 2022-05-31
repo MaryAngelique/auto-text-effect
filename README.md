@@ -32,8 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Auto Text Effect GitHub Solution](https://github.com/MaryAngelique/auto-text-effect)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [Auto Text Effect Website](https://vercel.com/maryangelique/auto-text-effect)
 ## My process
 
 ### Built with
